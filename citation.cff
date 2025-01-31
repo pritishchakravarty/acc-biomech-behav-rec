@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-2975-6253"
 title: "A novel biomechanical approach for animal behavior recognition using accelerometers"
 version: 1.0.0
-doi: TBD
+doi: 10.5281/zenodo.14777396
 date-released: 2019-04-02
 url: "https://github.com/pritishchakravarty/acc-biomech-behav-rec"
